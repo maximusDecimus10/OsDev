@@ -1,9 +1,7 @@
 #pragma once
 
-#include <stdio.h>
-#include <stdint.h>
-#include <string.h>
-
+#include "../bare-metal-c/libc.h"
+#include "../bare-metal-c/console.h"
 // ==============================
 // FAT12 Filesystem API
 // ==============================
